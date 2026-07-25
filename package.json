@@ -1,37 +1,40 @@
 {
-  "dependencies": {
-    "bootstrap-icons": "^1.11.2",
-    "sass": "^1.69.5"
-  },
-  "name": "proyecto-facundomartingomez",
+  "name": "proyectojs-facundomartingomez",
   "version": "1.0.0",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anymatch": "^3.1.3",
+    "binary-extensions": "^2.2.0",
+    "bootstrap-icons": "^1.11.2",
+    "braces": "^3.0.2",
+    "chokidar": "^3.5.3",
+    "fill-range": "^7.0.1",
+    "glob-parent": "^5.1.2",
+    "immutable": "^4.3.4",
+    "is-binary-path": "^2.1.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.1",
+    "readdirp": "^3.6.0",
+    "sass": "^1.69.5",
+    "source-map-js": "^1.0.2",
+    "to-regex-range": "^5.0.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Facundo Martin Gómez",
-  "license": "ISC",
-  "description": "Fit Point Equipment",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/facumgomez/proyectojs-facundomartingomez.git"
   },
-  "keywords": [
-    "fitness",
-    "mancuernas",
-    "pesas",
-    "gimanasio",
-    "maquinas",
-    "entrenamiento",
-    "funcional",
-    "crossfit",
-    "barras",
-    "discos",
-    "ejercicio",
-    "calsitenia",
-    "deporte"
-  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/facumgomez/proyectojs-facundomartingomez/issues"
   },
