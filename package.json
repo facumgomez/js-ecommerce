@@ -38,5 +38,9 @@
   "bugs": {
     "url": "https://github.com/facumgomez/proyectojs-facundomartingomez/issues"
   },
-  "homepage": "https://github.com/facumgomez/proyectojs-facundomartingomez#readme"
+  "homepage": "https://github.com/facumgomez/proyectojs-facundomartingomez#readme",
+  "engines": {
+    "node": "24.x"
+  }
 }
+
